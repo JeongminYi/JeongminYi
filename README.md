@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=150&reversal=true&color=gradient&desc=🏃🏽‍♂️&descSize=35&descAlignY=73&descAlign=55)
 
-🔒 Hi. I'm <b>Jeongmin Yi</b>. I really want to make useful and helpful programs. 😟<br>
+<!--🔒 Hi. I'm <b>Jeongmin Yi</b>. I really want to make useful and helpful programs. 😟<br>
 🔑 To do so, I need to learn Java, Dart, Flutter, Android, React, Database, Git, e.t.c.. 😑<br>
-🔓 Then, Maybe I can make any program what I want to make! Right? 😆<br>
+🔓 Then, Maybe I can make any program what I want to make! Right? 😆<br> -->
 
 ---
 
